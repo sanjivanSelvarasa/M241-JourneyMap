@@ -1,7 +1,24 @@
+# Gruppe 1
+
+Sanjivan - Projektleiter <br>
+Luka - Stellvertretener Projektleiter <br>
+
+
+
+
+
+
+
+
 # Version
 | Version | Datum | Bearbeiter | Bemerkung |
 | ------------- | ------------- | ------------- | ------------- |
-| ... | ... | ... | ... |
+| v1.0.0 | 26.08.2026 | Sanjivan | Erstellung Github, Erstellung Dokuments & Rollen |
+| v1.0.1 | 26.08.2026 | Luka | RACI |
+| v1.0.2 | 02.09.2026 | Luka | Bewerung added |
+| v1.0.3 | 07.09.2026 | Sanjivan | Raci-matrix, Parkshare & Zusammenfuegen im Hauptdokument |
+| v1.0.4 | 07.09.2026 | Luka | Versionierung, IPERKA & gleiche für Parkway |
+
 
 # JourneyMap
 
@@ -12,8 +29,20 @@ Luka - Koordination, Doku <br>
 Egor - Service <br>
 Khalil - Security / QA Lead <br>
 
-## IPERKA
-...
+## Problemidee
+
+### Problem
+
+Fotos welche gemacht werden, man schaut sie aber nicht an oder kann sie lange nicht finden. <br>  Wenn die Fotos aber automatisch zugeordnet werden, weiss man genau in welchem Trip man wo war und kann sie einfach betrachten.
+
+### Zielgruppe
+
+Leute die viele Fotos machen und reisen. Leute die den Übersicht über ihre Bilder nicht haben und sich komfortabel an guten Erinnerungen erinnern.
+
+### Nutzen
+
+Verbesserte Produktivität, teilen von den Bilder wird einfacher und eine bessere Ordnung/Organisation im allgemeinen ohne viel Zeit dafür aufzubrauchen.
+
 
 
 ## RACI-Arbeitspakete
@@ -33,7 +62,11 @@ Khalil - Security / QA Lead <br>
 | AP-09 | Foto-Upload und automatische Zuordnung entwickeln        | R        | A    | I      | C    | Geplant   | –                                              |
 | AP-10 | Reiseansicht mit Karte beziehungsweise Globus entwickeln | R        | C    | A      | I    | Geplant   | –                                              |
 | AP-11 | Deployment und Betrieb einrichten                        | C        | A    | I      | R    | Geplant   | –                                              |
-| AP-12 | Integration, Tests, Dokumentation und Präsentation       | A        | R    | C      | I    | Geplant   | –                                              |
+| AP-12 | Integration, Tests, Dokumentation und Präsentation       | A        | R    | C      | I    | Geplant   | – 
+
+
+## IPERKA
+...                                             
 
 ## Übergaben und Zuständigkeiten
 
@@ -58,8 +91,21 @@ Luka - Koordination, Doku <br>
 Egor - Service <br>
 Khalil - Security / QA Lead <br>
 
-## IPERKA
-...
+## Problemidee
+
+### Problem
+
+In Städten und dicht besiedelten Gebieten gibt es oft wenige Parkplätze gleichzeitig werden viele nicht genutzt wegen der Arbeit oder dem Urlaub. Es fehlt eine Möglichkeit, diese freien Parkfächem kutzfristig anderen zur Verfügung zu stellen.
+
+### Zielgruppe
+
+Personen mit einem privaten Parkplatz, der zeitweise nicht genutzt wird, Autofahrer, die kurzfristig einen Parkplatz suchen.
+
+### Nutzen
+
+Der mangelnde Platz in den Städten wird besser genutzt. Die wenige Parkplätze werden effizienter benutzt und stehen nicht unnötig leer. Ausserdem ist es eine gute kleine passive Einnahmequelle für den Parkplatzvermieter.
+
+
 
 ## RACI-Arbeitspakete
 
@@ -80,6 +126,9 @@ Khalil - Security / QA Lead <br>
 | AP-11 | Online-Bezahlung und Buchungsbestätigung integrieren                  | I        | A    | C      | R    | Geplant   | –                           |
 | AP-12 | Deployment und technischen Betrieb einrichten                         | C        | I    | R      | A    | Geplant   | –                           |
 | AP-13 | Integration, Tests, Dokumentation und Präsentation durchführen        | A        | R    | R      | C    | Geplant   | –                           |
+
+## IPERKA
+...
 
 ## Übergaben und Zuständigkeiten
 

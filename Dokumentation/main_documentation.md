@@ -3,13 +3,6 @@
 Sanjivan - Projektleiter <br>
 Luka - Stellvertretener Projektleiter <br>
 
-
-
-
-
-
-
-
 # Version
 | Version | Datum | Bearbeiter | Bemerkung |
 | ------------- | ------------- | ------------- | ------------- |
@@ -17,7 +10,7 @@ Luka - Stellvertretener Projektleiter <br>
 | v1.0.1 | 26.08.2026 | Luka | RACI |
 | v1.0.2 | 02.09.2026 | Luka | Bewerung added |
 | v1.0.3 | 07.09.2026 | Sanjivan | Raci-matrix, Parkshare & Zusammenfuegen im Hauptdokument |
-| v1.0.4 | 07.09.2026 | Luka | Versionierung, IPERKA & gleiche für Parkway |
+| v1.0.4 | 07.09.2026 | Luka | Versionierung, IPERKA & gleich fuer Parkway |
 
 
 # JourneyMap
@@ -62,11 +55,20 @@ Verbesserte Produktivität, teilen von den Bilder wird einfacher und eine besser
 | AP-09 | Foto-Upload und automatische Zuordnung entwickeln        | R        | A    | I      | C    | Geplant   | –                                              |
 | AP-10 | Reiseansicht mit Karte beziehungsweise Globus entwickeln | R        | C    | A      | I    | Geplant   | –                                              |
 | AP-11 | Deployment und Betrieb einrichten                        | C        | A    | I      | R    | Geplant   | –                                              |
-| AP-12 | Integration, Tests, Dokumentation und Präsentation       | A        | R    | C      | I    | Geplant   | – 
+| AP-12 | Integration, Tests, Dokumentation und Präsentation       | A        | R    | C      | I    | Geplant   | – |
 
 
 ## IPERKA
-...                                             
+
+| IPERKA-Phase | Umsetzung für AP-01 - Anforderungen und MVP festlegen |
+| --- | --- |
+| **Informieren** | Informationen über die Projektidee, das Problem, die potenzielle Zielgruppe und deren Bedürfnisse sammeln. Bereits vorhandene Anforderungen und Rahmenbedingungen werden analysiert. |
+| **Planen** | Festlegen, wie die Anforderungen erfasst und priorisiert werden. Kriterien definieren, anhand derer entschieden wird, welche Funktionen zum MVP gehören. |
+| **Entscheiden** | Gemeinsam entscheiden, welche Anforderungen zwingend für das MVP notwendig sind und welche Funktionen erst später umgesetzt werden können. |
+| **Realisieren** | Die priorisierten funktionalen und nicht funktionalen Anforderungen schriftlich festhalten und das MVP mit seinen wichtigsten Funktionen definieren. |
+| **Kontrollieren** | Überprüfen, ob alle wichtigen Anforderungen berücksichtigt wurden und ob das definierte MVP realistisch innerhalb der verfügbaren Zeit umgesetzt werden kann. |
+| **Auswerten** | Die festgelegten Anforderungen und das MVP im Team reflektieren und bei Bedarf Anpassungen oder Ergänzungen dokumentieren. |
+
 
 ## Übergaben und Zuständigkeiten
 
@@ -128,8 +130,14 @@ Der mangelnde Platz in den Städten wird besser genutzt. Die wenige Parkplätze 
 | AP-13 | Integration, Tests, Dokumentation und Präsentation durchführen        | A        | R    | R      | C    | Geplant   | –                           |
 
 ## IPERKA
-...
-
+| IPERKA-Phase | Umsetzung für AP-02 |
+| --- | --- |
+| **Informieren** | Informationen über die angenommene Zielgruppe sammeln und bestehende Annahmen über deren Bedürfnisse, Probleme und Erwartungen zusammentragen. |
+| **Planen** | Geeignete Methoden zur Validierung auswählen, beispielsweise eine Umfrage oder Interviews. Fragen vorbereiten und festlegen, welche Personen befragt werden sollen. |
+| **Entscheiden** | Entscheiden, welche Validierungsmethode verwendet wird und welche Ergebnisse für die Beurteilung der Zielgruppe und des Projekts besonders relevant sind. |
+| **Realisieren** | Die Umfragen oder Interviews mit Personen aus der Zielgruppe durchführen und die Antworten sowie Ergebnisse dokumentieren. |
+| **Kontrollieren** | Überprüfen, ob genügend Personen befragt wurden und ob die Ergebnisse aussagekräftig genug sind, um die bisherigen Annahmen über die Zielgruppe zu bestätigen oder zu widerlegen. |
+| **Auswerten** | Die Ergebnisse analysieren und daraus Schlussfolgerungen für das Projekt und das MVP ziehen. Anforderungen und Funktionen werden bei Bedarf angepasst. |
 ## Übergaben und Zuständigkeiten
 
 | Übergabe                                            | Verantwortlich      | Empfänger         | Abnahmekriterium                                                   |
